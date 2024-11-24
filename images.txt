@@ -1,2 +1,1 @@
 nginx
---platform=linux/arm64 sensenhub/alist
