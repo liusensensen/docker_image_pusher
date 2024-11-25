@@ -1,2 +1,1 @@
-#镜像名称
-centos/centos:7.9
+centos
