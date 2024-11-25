@@ -1,2 +1,1 @@
-mysql
-halo
+halo/halo:2.19
