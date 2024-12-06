@@ -2,4 +2,5 @@ mysql
 centos
 nginx
 alpine
-calico
+calico/cni
+
