@@ -8,11 +8,8 @@ tomcat
 alpine
 ubuntu
 debian
-scratch
 busybox
 golang
 python
 node
 java
-
-
