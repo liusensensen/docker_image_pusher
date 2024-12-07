@@ -1,14 +1,1 @@
-calico/cni
-calico/node
-calico/kube-controllers
-nginx
-redis
-mysql
-tomcat
-alpine
-ubuntu
-debian
-busybox
-golang
-python
-node
+docker.io/flannel/flannel-cni-plugin
