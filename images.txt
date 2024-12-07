@@ -1,1 +1,2 @@
-docker.io/flannel/flannel:v0.26.1
+docker.io/flannel/flannel
+docker.io/flannel/flannel-cni-plugin
