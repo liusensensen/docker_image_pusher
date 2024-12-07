@@ -12,4 +12,3 @@ busybox
 golang
 python
 node
-java
