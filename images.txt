@@ -1,5 +1,18 @@
 calico/cni
 calico/node
 calico/kube-controllers
+nginx
+redis
+mysql
+tomcat
+alpine
+ubuntu
+debian
+scratch
+busybox
+golang
+python
+node
+java
 
 
