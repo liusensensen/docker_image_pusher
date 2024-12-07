@@ -1,2 +1,1 @@
-docker.io/flannel/flannel
-docker.io/flannel/flannel-cni-plugin
+
