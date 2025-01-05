@@ -1,1 +1,1 @@
-nfs-subdir-external-provisioner
+k8s-sigs.io/nfs-subdir-external-provisioner
