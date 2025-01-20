@@ -1,2 +1,1 @@
-ghcr.io/khoj-ai/terrarium:latest
-docker.io/searxng/searxng:latest
+ghcr.io/khoj-ai/khoj:latest
