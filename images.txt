@@ -1,1 +1,1 @@
-ghcr.io/khoj-ai/khoj:latest
+ankane/pgvector
