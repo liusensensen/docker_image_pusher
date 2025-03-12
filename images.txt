@@ -1,1 +1,1 @@
-infiniflow/ragflow:v0.16.0
+perl:5.34.0
