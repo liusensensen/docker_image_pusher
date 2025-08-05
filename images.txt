@@ -1,2 +1,2 @@
-docker.io/calico/node:v3.25.0
-mysql
+quay.io/metallb/speaker:v0.13.9
+quay.io/metallb/controller:v0.13.9
